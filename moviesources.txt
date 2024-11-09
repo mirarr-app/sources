@@ -4,11 +4,6 @@
     "hasAds": false,
     "hasSubs": true
   },
-  "braflix": {
-    "url": "https://www.braflix.video/movie/{movieId}",
-    "hasAds": true,
-    "hasSubs": true
-  },
   "freek": {
     "url": "https://freek.to/watch/movie/{movieId}",
     "hasAds": true,

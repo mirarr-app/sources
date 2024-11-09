@@ -1,9 +1,4 @@
 {
-  "braflix": {
-    "url": "https://www.braflix.video/movie/{serieId}/{seasonNumber}/{episodeNumber}?play=true",
-    "hasAds": true,
-    "hasSubs": true
-  },
   "freek": {
     "url": "https://freek.to/watch/tv/{serieId}?season={seasonNumber}&ep={episodeNumber}",
     "hasAds": false,

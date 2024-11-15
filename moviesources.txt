@@ -1,27 +1,42 @@
 {
-  "movie-web": {
-    "url": "https://www.movie-web.me/media/tmdb-movie-{movieId}",
-    "hasAds": false,
-    "hasSubs": true
-  },
-  "freek": {
-    "url": "https://freek.to/watch/movie/{movieId}",
-    "hasAds": true,
-    "hasSubs": true
-  },
-  "rive": {
-    "url": "https://rivestream.live/watch?type=movie&id={movieId}",
-    "hasAds": false,
-    "hasSubs": true
-  },
-  "vidsrc": {
-    "url": "https://vidsrc.to/embed/movie/{movieId}",
-    "hasAds": true,
-    "hasSubs": true
-  },
-  "primeflix": {
-    "url": "https://www.primeflix.lol/movie/{movieId}/stream",
-    "hasAds": true,
-    "hasSubs": true
+    "movie-web": {
+      "url": "https://www.movie-web.me/media/tmdb-movie-{movieId}",
+      "hasAds": false,
+      "hasSubs": true
+    },
+    "freek": {
+      "url": "https://freek.to/watch/movie/{movieId}",
+      "hasAds": true,
+      "hasSubs": true
+    },
+    "rive": {
+      "url": "https://rivestream.live/watch?type=movie&id={movieId}",
+      "hasAds": false,
+      "hasSubs": true
+    },
+    "vidsrc": {
+      "url": "https://vidsrc.to/embed/movie/{movieId}",
+      "hasAds": true,
+      "hasSubs": true
+    },
+    "primeflix": {
+      "url": "https://www.primeflix.lol/movie/{movieId}/stream",
+      "hasAds": true,
+      "hasSubs": true
+    },
+    "cineby": {
+      "url": "https://cineby.ru/movie/{movieId}",
+      "hasAds": false,
+      "hasSubs": true
+    },
+    "456movie": {
+      "url": "https://456movie.com/movie/watch/{movieId}",
+      "hasAds": true,
+      "hasSubs": false
+    },
+    "broflix": {
+      "url": "https://broflix.cc/watch/movie/{movieId}",
+      "hasAds": true,
+      "hasSubs": true
+    }
   }
-}

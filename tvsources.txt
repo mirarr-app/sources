@@ -1,17 +1,22 @@
 {
-  "freek": {
-    "url": "https://freek.to/watch/tv/{serieId}?season={seasonNumber}&ep={episodeNumber}",
-    "hasAds": false,
-    "hasSubs": true
-  },
-  "rive": {
-    "url": "https://rivestream.live/watch?type=tv&id={serieId}&season={seasonNumber}&episode={episodeNumber}",
-    "hasAds": false,
-    "hasSubs": true
-  },
-  "primeflix": {
-    "url": "https://www.primeflix.lol/tv/{serieId}/season/{seasonNumber}/stream/{episodeNumber}",
-    "hasAds": true,
-    "hasSubs": true
+    "freek": {
+      "url": "https://freek.to/watch/tv/{serieId}?season={seasonNumber}&ep={episodeNumber}",
+      "hasAds": false,
+      "hasSubs": true
+    },
+    "rive": {
+      "url": "https://rivestream.live/watch?type=tv&id={serieId}&season={seasonNumber}&episode={episodeNumber}",
+      "hasAds": false,
+      "hasSubs": true
+    },
+    "primeflix": {
+      "url": "https://www.primeflix.lol/tv/{serieId}/season/{seasonNumber}/stream/{episodeNumber}",
+      "hasAds": true,
+      "hasSubs": true
+    },
+    "cineby": {
+      "url": "https://cineby.to/tv/{serieId}/{seasonNumber}/{episodeNumber}",
+      "hasAds": false,
+      "hasSubs": true
+    }
   }
-}

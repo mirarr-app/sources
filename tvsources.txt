@@ -15,7 +15,7 @@
       "hasSubs": true
     },
     "cineby": {
-      "url": "https://cineby.to/tv/{serieId}/{seasonNumber}/{episodeNumber}",
+      "url": "https://cineby.ru/tv/{serieId}/{seasonNumber}/{episodeNumber}",
       "hasAds": false,
       "hasSubs": true
     }

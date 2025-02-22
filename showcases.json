@@ -1,0 +1,86 @@
+{
+  "showcases": [
+    {
+      "id": 1,
+      "title": "Spotify - The Modern Music Experience",
+      "image": "https://images.unsplash.com/photo-1614680376593-902f74cf0d41?auto=format&fit=crop&q=80&w=1000",
+      "content": "A revolutionary music streaming platform that has transformed how we consume music. With its intuitive interface and vast library, Spotify stands as a testament to modern digital innovation.",
+      "date": "Latest Update: 2025",
+      "url": "https://spotify.com",
+      "category": "Application"
+    },
+    {
+      "id": 2,
+      "title": "Visual Studio Code - The Craftsman's Tool",
+      "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&q=80&w=1000",
+      "content": "Microsoft's masterpiece of software engineering, Visual Studio Code has become the de facto choice for modern developers. Its extensible nature and powerful features make it an indispensable tool.",
+      "date": "Latest Update: 2025",
+      "url": "https://code.visualstudio.com",
+      "github": "https://github.com/microsoft/vscode",
+      "category": "Application"
+    },
+    {
+      "id": 3,
+      "title": "Figma - The Digital Design Revolution",
+      "image": "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?auto=format&fit=crop&q=80&w=1000",
+      "content": "A groundbreaking collaborative design platform that has revolutionized how designers and teams work together. Figma's browser-based approach has made design accessible to all.",
+      "date": "Latest Update: 2025",
+      "url": "https://figma.com",
+      "category": "Application"
+    },
+    {
+      "id": 4,
+      "title": "GitHub - The Social Coding Phenomenon",
+      "image": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?auto=format&fit=crop&q=80&w=1000",
+      "content": "The world's leading platform for code collaboration and version control. GitHub has become the heart of the open-source community and modern software development.",
+      "date": "Latest Update: 2025",
+      "url": "https://github.com",
+      "category": "Website"
+    },
+    {
+      "id": 5,
+      "title": "Stack Overflow - The Developer's Companion",
+      "image": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?auto=format&fit=crop&q=80&w=1000",
+      "content": "An invaluable resource for programmers worldwide, Stack Overflow has become the largest and most trusted community for developers to learn, share, and solve coding challenges.",
+      "date": "Latest Update: 2025",
+      "url": "https://stackoverflow.com",
+      "category": "Website"
+    },
+    {
+      "id": 6,
+      "title": "Notion - The All-in-One Workspace",
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&q=80&w=1000",
+      "content": "A versatile productivity tool that combines notes, databases, and collaboration features. Notion's flexible structure allows for infinite possibilities in organization and teamwork.",
+      "date": "Latest Update: 2025",
+      "url": "https://notion.so",
+      "category": "Application"
+    },
+    {
+      "id": 7,
+      "title": "MDN Web Docs - The Developer's Library",
+      "image": "https://images.unsplash.com/photo-1516259762381-22954d7d3ad2?auto=format&fit=crop&q=80&w=1000",
+      "content": "Mozilla's comprehensive resource for web documentation has become the go-to reference for developers worldwide. Its detailed guides and examples are invaluable for web development.",
+      "date": "Latest Update: 2025",
+      "url": "https://developer.mozilla.org",
+      "category": "Website"
+    },
+    {
+      "id": 8,
+      "title": "Vercel - The Deployment Pioneer",
+      "image": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?auto=format&fit=crop&q=80&w=1000",
+      "content": "A cutting-edge platform for deploying web projects with unprecedented ease and performance. Vercel has redefined how we think about web deployment and hosting.",
+      "date": "Latest Update: 2025",
+      "url": "https://vercel.com",
+      "category": "Website"
+    },
+    {
+      "id": 9,
+      "title": "Discord - The Modern Communication Hub",
+      "image": "https://images.unsplash.com/photo-1614680376739-8d66524f6686?auto=format&fit=crop&q=80&w=1000",
+      "content": "A revolutionary platform that has transformed how communities communicate. Discord's rich features and intuitive design make it perfect for both casual and professional use.",
+      "date": "Latest Update: 2025",
+      "url": "https://discord.com",
+      "category": "Application"
+    }
+  ]
+} 

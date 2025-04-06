@@ -1,6 +1,6 @@
 {
     "movie-web": {
-      "url": "https://www.movie-web.me/media/tmdb-movie-{movieId}",
+      "url": "https://pseudo-flix.pro/media/tmdb-movie-{movieId}",
       "hasAds": false,
       "hasSubs": true
     },
@@ -10,7 +10,7 @@
       "hasSubs": true
     },
     "rive": {
-      "url": "https://rivestream.live/watch?type=movie&id={movieId}",
+      "url": "https://rivestream.org/watch?type=movie&id={movieId}",
       "hasAds": false,
       "hasSubs": true
     },
@@ -19,23 +19,18 @@
       "hasAds": true,
       "hasSubs": true
     },
-    "primeflix": {
-      "url": "https://www.primeflix.lol/movie/{movieId}/stream",
-      "hasAds": true,
-      "hasSubs": true
-    },
     "cineby": {
-      "url": "https://cineby.ru/movie/{movieId}",
+      "url": "https://cineby.app/movie/{movieId}",
       "hasAds": false,
       "hasSubs": true
     },
     "456movie": {
-      "url": "https://456movie.com/movie/watch/{movieId}",
+      "url": "https://456movie.net/movie/watch/{movieId}",
       "hasAds": true,
       "hasSubs": false
     },
     "broflix": {
-      "url": "https://broflix.cc/watch/movie/{movieId}",
+      "url": "https://broflix.ci/watch/movie/{movieId}",
       "hasAds": true,
       "hasSubs": true
     }

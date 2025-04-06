@@ -5,17 +5,12 @@
       "hasSubs": true
     },
     "rive": {
-      "url": "https://rivestream.live/watch?type=tv&id={serieId}&season={seasonNumber}&episode={episodeNumber}",
+      "url": "https://rivestream.org/watch?type=tv&id={serieId}&season={seasonNumber}&episode={episodeNumber}",
       "hasAds": false,
       "hasSubs": true
     },
-    "primeflix": {
-      "url": "https://www.primeflix.lol/tv/{serieId}/season/{seasonNumber}/stream/{episodeNumber}",
-      "hasAds": true,
-      "hasSubs": true
-    },
     "cineby": {
-      "url": "https://cineby.ru/tv/{serieId}/{seasonNumber}/{episodeNumber}",
+      "url": "https://cineby.app/tv/{serieId}/{seasonNumber}/{episodeNumber}",
       "hasAds": false,
       "hasSubs": true
     }

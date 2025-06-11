@@ -9,6 +9,11 @@
       "hasAds": false,
       "hasSubs": true
     },
+    "hexa": {
+      "url": "https://hexa.watch/watch/tv/{serieId}/{seasonNumber}/{episodeNumber}",
+      "hasAds": true,
+      "hasSubs": true
+    },
     "cineby": {
       "url": "https://cineby.app/tv/{serieId}/{seasonNumber}/{episodeNumber}",
       "hasAds": false,

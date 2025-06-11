@@ -1,11 +1,6 @@
 {
-    "movie-web": {
-      "url": "https://pseudo-flix.pro/media/tmdb-movie-{movieId}",
-      "hasAds": false,
-      "hasSubs": true
-    },
-    "freek": {
-      "url": "https://freek.to/watch/movie/{movieId}",
+    "moviemaze": {
+      "url": "https://moviemaze.cc/watch/movie/{movieId}",
       "hasAds": true,
       "hasSubs": true
     },
@@ -28,10 +23,5 @@
       "url": "https://456movie.net/movie/watch/{movieId}",
       "hasAds": true,
       "hasSubs": false
-    },
-    "broflix": {
-      "url": "https://broflix.ci/watch/movie/{movieId}",
-      "hasAds": true,
-      "hasSubs": true
     }
   }

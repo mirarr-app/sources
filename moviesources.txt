@@ -9,6 +9,11 @@
       "hasAds": false,
       "hasSubs": true
     },
+    "hexa": {
+      "url": "https://hexa.watch/watch/movie/{movieId}",
+      "hasAds": true,
+      "hasSubs": true
+    },
     "vidsrc": {
       "url": "https://vidsrc.to/embed/movie/{movieId}",
       "hasAds": true,

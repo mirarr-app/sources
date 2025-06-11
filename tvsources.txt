@@ -1,7 +1,7 @@
 {
-    "freek": {
-      "url": "https://freek.to/watch/tv/{serieId}?season={seasonNumber}&ep={episodeNumber}",
-      "hasAds": false,
+    "moviemaze": {
+      "url": "https://moviemaze.cc/watch/tv/{serieId}?ep={episodeNumber}&season={seasonNumber}",
+      "hasAds": true,
       "hasSubs": true
     },
     "rive": {

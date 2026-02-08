@@ -1,17 +1,7 @@
 {
-    "moviemaze": {
-      "url": "https://moviemaze.cc/watch/movie/{movieId}",
-      "hasAds": true,
-      "hasSubs": true
-    },
     "rive": {
       "url": "https://rivestream.org/watch?type=movie&id={movieId}",
       "hasAds": false,
-      "hasSubs": true
-    },
-    "hexa": {
-      "url": "https://hexa.watch/watch/movie/{movieId}",
-      "hasAds": true,
       "hasSubs": true
     },
     "vidsrc": {

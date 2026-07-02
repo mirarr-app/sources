@@ -1,6 +1,6 @@
 {
     "rive": {
-      "url": "https://rivestream.org/watch?type=tv&id={serieId}&season={seasonNumber}&episode={episodeNumber}",
+      "url": "https://www.rivestream.app/watch?type=tv&id={serieId}&season={seasonNumber}&episode={episodeNumber}",
       "hasAds": false,
       "hasSubs": true
     },

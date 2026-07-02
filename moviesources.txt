@@ -1,6 +1,6 @@
 {
     "rive": {
-      "url": "https://rivestream.app/watch?type=movie&id={movieId}",
+      "url": "https://www.rivestream.app/watch?type=movie&id={movieId}",
       "hasAds": false,
       "hasSubs": true
     },

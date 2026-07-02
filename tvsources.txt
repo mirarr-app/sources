@@ -8,5 +8,15 @@
       "url": "https://cineby.app/tv/{serieId}/{seasonNumber}/{episodeNumber}",
       "hasAds": false,
       "hasSubs": true
+    },
+    "popcornmovies": {
+      "url": "https://popcornmovies.io/watch/tv/{serieId}?s={seasonNumber}&e={episodeNumber}",
+      "hasAds": true,
+      "hasSubs": true
+    },
+    "flixer": {
+      "url": "https://flixer.su/watch/tv/{serieId}/{seasonNumber}/{episodeNumber}",
+      "hasAds": true,
+      "hasSubs": true
     }
   }

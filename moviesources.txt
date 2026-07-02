@@ -23,5 +23,15 @@
       "url": "https://flixer.su/watch/movie/{movieId}",
       "hasAds": true,
       "hasSubs": true
+    },
+    "flickystream": {
+      "url": "https://flickystream.su/player/movie/{movieId}",
+      "hasAds": true,
+      "hasSubs": true
+    },
+    "67movies": {
+      "url": "https://67movies.nl/watch/movie/{movieId}",
+      "hasAds": true,
+      "hasSubs": true
     }
   }

@@ -18,5 +18,10 @@
       "url": "https://popcornmovies.io/watch/movie/{movieId}",
       "hasAds": true,
       "hasSubs": true
+    },
+    "flixer": {
+      "url": "https://flixer.su/watch/movie/{movieId}",
+      "hasAds": true,
+      "hasSubs": true
     }
   }

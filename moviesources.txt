@@ -14,9 +14,9 @@
       "hasAds": false,
       "hasSubs": true
     },
-    "456movie": {
-      "url": "https://456movie.net/movie/watch/{movieId}",
+    "popcornmovies": {
+      "url": "https://popcornmovies.io/watch/movie/{movieId}",
       "hasAds": true,
-      "hasSubs": false
+      "hasSubs": true
     }
   }
